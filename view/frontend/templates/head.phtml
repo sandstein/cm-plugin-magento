@@ -5,10 +5,9 @@ if ($helper->isEnabled()){
     $cmp_id = $helper->getCMPId();
     $mode = $helper->getBlockingMode();
     $customHtml = $helper->getCustomHtml();
-    if(is_null($customHtml)){
-        $customHtml = '';
+    if (!empty($customHtml)) {
+        $customHtml = trim($customHtml);
     }
-    $customHtml = trim($customHtml);
 
     $cdn = $helper->getCdn();
     $host = $helper->getHost();
