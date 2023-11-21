@@ -29,18 +29,21 @@
             <values>
                 <value id="cmpcdn" type="host">https://cdn.consentmanager.net</value>
                 <value id="cmphost-base" type="host">https://delivery.consentmanager.net</value>
+				<value id="cmphost-sub" type="host">https://a.delivery.consentmanager.net</value>
             </values>
         </policy>
         <policy id="img-src">
             <values>
                 <value id="cmpcdn" type="host">https://cdn.consentmanager.net</value>
                 <value id="cmphost-base" type="host">https://delivery.consentmanager.net</value>
+				<value id="cmphost-sub" type="host">https://a.delivery.consentmanager.net</value>
             </values>
         </policy>
         <policy id="media-src">
             <values>
                 <value id="cmpcdn" type="host">https://cdn.consentmanager.net</value>
                 <value id="cmphost-base" type="host">https://delivery.consentmanager.net</value>
+				<value id="cmphost-sub" type="host">https://a.delivery.consentmanager.net</value>
             </values>
         </policy>
     </policies>
