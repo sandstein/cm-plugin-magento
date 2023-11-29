@@ -30,6 +30,9 @@
                 <value id="cmpcdn" type="host">https://cdn.consentmanager.net</value>
                 <value id="cmphost-base" type="host">https://delivery.consentmanager.net</value>
 				<value id="cmphost-sub" type="host">https://a.delivery.consentmanager.net</value>
+				<value id="cmphost-sub" type="host">https://b.delivery.consentmanager.net</value>
+				<value id="cmphost-sub" type="host">https://c.delivery.consentmanager.net</value>
+				<value id="cmphost-sub" type="host">https://d.delivery.consentmanager.net</value>
             </values>
         </policy>
         <policy id="img-src">
@@ -37,6 +40,10 @@
                 <value id="cmpcdn" type="host">https://cdn.consentmanager.net</value>
                 <value id="cmphost-base" type="host">https://delivery.consentmanager.net</value>
 				<value id="cmphost-sub" type="host">https://a.delivery.consentmanager.net</value>
+				<value id="cmphost-sub" type="host">https://b.delivery.consentmanager.net</value>
+				<value id="cmphost-sub" type="host">https://c.delivery.consentmanager.net</value>
+				<value id="cmphost-sub" type="host">https://d.delivery.consentmanager.net</value>
+            </values>
             </values>
         </policy>
         <policy id="media-src">
@@ -44,6 +51,10 @@
                 <value id="cmpcdn" type="host">https://cdn.consentmanager.net</value>
                 <value id="cmphost-base" type="host">https://delivery.consentmanager.net</value>
 				<value id="cmphost-sub" type="host">https://a.delivery.consentmanager.net</value>
+				<value id="cmphost-sub" type="host">https://b.delivery.consentmanager.net</value>
+				<value id="cmphost-sub" type="host">https://c.delivery.consentmanager.net</value>
+				<value id="cmphost-sub" type="host">https://d.delivery.consentmanager.net</value>
+            </values>
             </values>
         </policy>
     </policies>
