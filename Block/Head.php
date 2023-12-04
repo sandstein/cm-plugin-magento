@@ -8,7 +8,7 @@ class Head extends \Magento\Framework\View\Element\Template
 
     public function __construct(
         \Consentmanager\Cmp\Helper\Data $helper,
-        \Magento\Catalog\Block\Product\Context $context,
+        \Magento\Framework\View\Element\Template\Context $context,
         array $data = []
     ) {
         parent::__construct($context, $data);
